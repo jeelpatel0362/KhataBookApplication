@@ -37,6 +37,10 @@ KhataBook is a simple yet powerful Android application for managing credit and d
 |--------------|
 | <img src="https://github.com/user-attachments/assets/43c2b2fa-6014-42a5-9312-e89e80fc8ab6" width="200"/> |
 
+## Demo Video 🎥
+
+https://github.com/user-attachments/assets/b54b2316-1f41-45e9-99db-4bc27f76ef4a
+
 ## Technical Stack 🛠️
 
 - **Language**: Kotlin
