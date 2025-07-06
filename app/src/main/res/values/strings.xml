@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KhataBook Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_transactions_found">No transactions found</string>
+    <string name="error_loading_transactions">Error loading transactions</string>
+    <string name="no_users_available">No users available. Please add users first.</string>
+    <string name="error_loading_users">Error loading users</string>
+    <string name="enter_valid_amount">Enter valid amount</string>
+    <string name="amount_must_be_positive">Amount must be positive</string>
+    <string name="title_required">Title required</string>
+    <string name="select_user">Select a user</string>
+    <string name="invalid_user_selection">Invalid user selection</string>
+    <string name="transaction_saved">Transaction saved successfully</string>
+    <string name="error_saving_transaction">Error saving transaction</string>
+</resources>
