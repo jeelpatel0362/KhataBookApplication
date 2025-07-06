@@ -1,4 +1,4 @@
-![2](https://github.com/user-attachments/assets/78a3f138-4cc7-4285-8660-183f0350fc1e)# KhataBook App 💰
+# KhataBook App 💰
 
 KhataBook is a simple yet powerful Android application for managing credit and debit transactions with your customers. Keep track of pending payments, send reminders, and maintain your business accounts efficiently.
 
